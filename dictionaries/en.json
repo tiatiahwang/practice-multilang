@@ -1,0 +1,10 @@
+{
+  "header": {
+    "login": "Login",
+    "join": "Join",
+    "search": "search"
+  },
+  "home": {
+    "title": "Home"
+  }
+}
